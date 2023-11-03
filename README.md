@@ -10,16 +10,16 @@ The Contact Assistant is a versatile tool that allows you to manage contacts and
 - `add-birthday`: Add a birthday for a contact in the AddressBook.
 - `show-birthday`: Show the birthday of a contact in the AddressBook.
 - `change-birthday`: Change the birthday of a contact from the AddressBook.
-
+- `delete-birthday`: Delete the birthday of a contact from the AddressBook.
 - `birthdays`: Show the birthdays of all contacts in the AddressBook for the next N days.
 - `add-address`: Add an address for a contact in the AddressBook.
 - `show-address`: Show the address of a contact from the AddressBook.
 - `change-address`: Change the address of a contact from the AddressBook.
-
+- `delete-address`: Delete the address of a contact from the AddressBook.
 - `add-email`: Add an email address for a contact in the AddressBook.
 - `show-email`: Show the email address of a contact from the AddressBook.
 - `change-email`: Change the email address of a contact from the AddressBook.
-
+- `delete-email`: Delete the email address of a contact from the AddressBook.
 - `all`: Show all contacts in the AddressBook.
 - `show`: Show all contact info in the AddressBook.
 - `search`: Search for a contact in the AddressBook by name or other criteria.
